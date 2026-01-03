@@ -2,6 +2,8 @@
 
 This project demonstrates how to use **K-Means clustering** to segment credit card users based on their financial behavior. The clustering is performed using three key features: **BALANCE**, **PURCHASES**, and **CREDIT_LIMIT**. By grouping users into clusters, banks and financial institutions can gain insights into customer spending patterns, identify high-value clients, and design targeted marketing strategies.
 
+https://huggingface.co/spaces/sevvaliclal/CreditCardClusteringApp
+
 ## 🧠 Objective
 The main goal of this project is to create a simple yet effective machine learning model that can predict which cluster a new credit card user belongs to. This helps in understanding different types of customers based on their financial activity.
 
